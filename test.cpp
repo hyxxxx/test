@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    printf("Hello, 陈俊宏! \n");
+    printf("陈俊宏，你最萌，我们沉迷你的盛世美颜 \n");
+    printf("喜欢夜喵的小虎牙 \n");
+    printf("夜喵卡哇伊 \n");
+    return 0;
+} 
