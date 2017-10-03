@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main ()
+{
+  /* hahahahahah */ 
+  printf("Hello,GMT! \n");
+  printf("Hello,GMT2! \n");
+       return 0;
+}
