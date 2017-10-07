@@ -2,7 +2,7 @@
   
 int main()  
 {   
-      int a[100];   
+      int a[10];   
       int i, j, temp;   
   
       // 输入10个整型数据   

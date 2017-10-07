@@ -6,6 +6,6 @@ int main(int argc, char *argv[])
 	scanf("%f",&R);
 	A = PI * R * R;
 	C = 2.0 * R *PI;
-	printf("C = %f,A = %f",C,A);
+	printf("C = %1.9f,A = %1.9f",C,A);
 	return 0;
 }
