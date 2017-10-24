@@ -17,6 +17,6 @@ int main(int argc, char *argv[])
 		d=a+d;
 		}
 	}
-    printf("%.0f %20.16f\n",b++,d);
+    printf("%.0f %20.16f\n",b,d);
 	return 0;
 }
